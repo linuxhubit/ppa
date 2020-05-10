@@ -1,3 +1,68 @@
+Package: com.github.linuxhubit.catfacts
+Version: 1.2.4
+Architecture: amd64
+Maintainer: Mirko Brombin <send@mirko.pm>
+Installed-Size: 138
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.31.8), libgtk-3-0 (>= 3.11.5), libjson-glib-1.0-0 (>= 0.12.0), libsoup2.4-1 (>= 2.41.90)
+Filename: ./com.github.linuxhubit.catfacts_1.2.4_amd64.deb
+Size: 14620
+MD5sum: e2ba13b22ba576e8bfd1d66a5b0d4d78
+SHA1: dcdb0881413b48e07bd77e0b9620a13c492acead
+SHA256: cf248100950d1e43b19104cc1826628de5b82f3faf7b0c1edd190d6c1bc65c1a
+Section: utils
+Priority: optional
+Description: Cat Facts
+
+Package: com.github.linuxhubit.gitscover
+Version: 1.2.4
+Architecture: amd64
+Maintainer: Mirko Brombin <send@mirko.pm>
+Installed-Size: 140
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.28.0), libgtk-3-0 (>= 3.11.5), libjson-glib-1.0-0 (>= 0.12.0), libsoup2.4-1 (>= 2.41.90)
+Filename: ./com.github.linuxhubit.gitscover_1.2.4_amd64.deb
+Size: 15476
+MD5sum: 553cea89ca9144f71fc988df3ddf9a88
+SHA1: 699f67147b0b9566fc54b014343af3f60e7cc08f
+SHA256: 55aee7a2844347d0b63de11c840e0b29593d5f73271338865d960f5b071c687d
+Section: utils
+Priority: optional
+Description: Find new GitHub repositories
+
+Package: com.github.linuxhubit.shouldidoit
+Version: 1.2.4
+Architecture: amd64
+Maintainer: Mirko Brombin <send@mirko.pm>
+Installed-Size: 140
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.31.8), libgtk-3-0 (>= 3.11.5)
+Filename: ./com.github.linuxhubit.shouldidoit_1.2.4_amd64.deb
+Size: 14948
+MD5sum: 4c9b97d8a89a05edcaa72869c21870fe
+SHA1: 0f29f710ae163a1edd874535a4444a936295ac44
+SHA256: 59ed6ff135c084856b37ccc1be4f653a7f95e70a063b17f2e0d5f29f276f3d3c
+Section: utils
+Priority: optional
+Description: Should I do It
+
+Package: com.github.linuxhubsubpixel.license
+Version: 1.0.2
+Architecture: amd64
+Maintainer: Mirko Brombin <send@mirko.pm>
+Installed-Size: 62
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.28.0), libgranite5 (>= 5.2.3), libgtk-3-0 (>= 3.16.2)
+Filename: ./com.github.linuxhubsubpixel.license_1.0.2_amd64.deb
+Size: 10860
+MD5sum: 82e2c379f34705b6fedba46277134357
+SHA1: 9bd0fb84f2f9f79ac4f28ffe0bb215f751aee5b7
+SHA256: a746261a11cf39524e094a1d9a28294e05eb70adc158b33b100444d06b0fdd7a
+Section: utils
+Priority: optional
+Description: License
+ Choose your open source project license
+
 Package: com.github.mirkobrombin.bottles
 Version: 0.2.5
 Architecture: amd64
