@@ -67,14 +67,14 @@ Package: com.github.mirkobrombin.bottles
 Version: 0.2.5
 Architecture: amd64
 Maintainer: Mirko Brombin <send@mirko.pm>
-Installed-Size: 390
-Depends: python3, python3-yaml, python3-setuptools, python3-requests, python3-pil, python3-gi, wine-stable
+Installed-Size: 399
+Depends: python3:any, python3, python3-yaml, python3-setuptools, python3-requests, python3-pil, python3-gi, libgranite-dev, wine-stable
 Recommends: python3-evdev, gvfs-backends, libwine-development, winetricks, libc6-i386, lib32gcc1
 Filename: ./com.github.mirkobrombin.bottles_0.2.5_amd64.deb
-Size: 51236
-MD5sum: 5752e0e58bd7344a2913a2d92848b6e8
-SHA1: b1876e7ee60e5e90ab52ca3a29db52c8a86e64bc
-SHA256: fcca4ba697ec46e7af3fa3db2fa0595c11313fa85514061cd7c0b8d4c0419d3a
+Size: 39456
+MD5sum: 3f28153d03d7b8aaf77ed8e07c934edb
+SHA1: 6914d2c45a791f7b6f1e046a7f46d6378b664109
+SHA256: d94802b12aafbdebe41f7d4de9612e33e5767850397c549e256ccaaff561ffb6
 Section: utils
 Priority: optional
 Description: Bottles
